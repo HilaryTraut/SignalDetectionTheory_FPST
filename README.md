@@ -1,2 +1,2 @@
 # SignalDetectionTheory_FPST
-Signal Detection Theory shiny app visualization for First Person Shooter Task (Correll et al., 2001).
+Simple visualization of Signal Detection Theory principles for the First Person Shooter Task (Correll et al., 2002). For extensive description of psychological task and findings see: http://psych.colorado.edu/~jclab/FPST.html 
